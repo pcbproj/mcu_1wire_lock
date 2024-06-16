@@ -57,7 +57,7 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="14" y="146" useTextEdit="1" path="main.c" left="0" selected="1" top="105" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="100" y="56" useTextEdit="1" path="main.c" left="0" selected="1" top="166" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="6" y="1017" useTextEdit="1" path="STM32F1xx/Device/Include/stm32f10x.h" left="0" top="990" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="5" y="210" useTextEdit="1" openedFrom="D:/Work/PCBteach/docs/02_MY_projects/PADIO/FINAL_MCU_BLINKER/main.c" path="STM32F1xx/Device/Source/system_stm32f10x.c" left="0" top="210" codecName="Default"/>
  </Files>
