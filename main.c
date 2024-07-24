@@ -41,8 +41,8 @@ Purpose : Generic application start
 
 #define LOCK_PORT   GPIOB
 #define LOCK_PIN    12
-#define LOCK_OPEN   LOCK_PORT->BSRR |= GPIO_BSRR_BS12
-#define LOCK_CLOSE  LOCK_PORT->BSRR |= GPIO_BSRR_BR12
+#define LOCK_OPEN   LOCK_PORT->BSRR |= GPIO_BSRR_BR12
+#define LOCK_CLOSE  LOCK_PORT->BSRR |= GPIO_BSRR_BS12
 
 
 /****  BLE-homephone LED BLINKER PINS PC13 PC14 ********************************************************
